@@ -29,3 +29,6 @@ Other Tools
 >>stringtohex [string]
 
 >>dectohex [number]
+
+
+## jika masih bingung bisa dm saya langsung ke discord saya dengan id ! ken #1263
