@@ -10,25 +10,25 @@ Commands
 
 Network Tools
 
->>ipinfo [ip address]
+ >>ipinfo [ip address]
 
->>nmap [ip address / url]
+ >>nmap [ip address / url]
 
->>dnslookup [url]
+ >>dnslookup [url]
 
->>subnetlookup [ip address]
+ >>subnetlookup [ip address]
 
->>reversedns [ip address]
+ >>reversedns [ip address]
 
->>torip
+ >>torip
 
 Other Tools
 
->>hextostring [hexadecimal input]
+ >>hextostring [hexadecimal input]
 
->>stringtohex [string]
+ >>stringtohex [string]
 
->>dectohex [number]
+ >>dectohex [number]
 
 
 ## jika masih bingung bisa dm saya langsung ke discord saya dengan id ! ken #1263
